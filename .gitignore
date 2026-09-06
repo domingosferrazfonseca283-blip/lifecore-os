@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+memory/lifecore.db
+memory/state.json
+*.log
+.DS_Store
